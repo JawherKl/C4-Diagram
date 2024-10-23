@@ -41,7 +41,6 @@ Using the C4 framework introduces consistency in how systems are modeled and des
 The process of creating C4 diagrams forces engineers to think critically about architectural decisions and trade-offs. For example, when drawing the container diagram, engineers need to decide how services will communicate, which protocols to use, and how to scale different containers. This ensures that critical decisions are made deliberately and with the full picture in mind.
 
 ### Overview of C4 Diagram Levels
-
 1. **Context Diagram**
    - **Audience**: Non-technical stakeholders (e.g., product owners, managers).
    - **Purpose**: Shows the system in relation to external actors (e.g., users, external services).
@@ -63,7 +62,6 @@ The process of creating C4 diagrams forces engineers to think critically about a
    - **Focus**: The internal structure of components, such as class hierarchies or database schemas.
 
 ### Example of C4 Diagrams
-
 1. **Context Diagram**
    - Depicts how users and external systems interact with the application, like a user interacting with an e-commerce site that connects with a payment service provider.
 
