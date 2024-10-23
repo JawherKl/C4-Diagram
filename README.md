@@ -1,12 +1,10 @@
 The **C4 diagram** is a framework for visualizing the architecture of software systems. It provides a set of structured diagrams that help software engineers and architects describe, understand, and communicate the architecture at different levels of abstraction. The "C4" stands for the four types of diagrams it includes:
-
 1. **Context Diagram**
 2. **Container Diagram**
 3. **Component Diagram**
 4. **Code (optional)**
 
 ### Why Study and Practice C4 Diagrams as a Software Engineer?
-
 #### 1. **Improved System Understanding**
 The C4 diagram provides a clear, hierarchical representation of software systems, starting from the big picture (context) and drilling down into the details (components and code). This helps engineers understand how different parts of a system work together, what external dependencies exist, and how the system interacts with users and other systems.
 
