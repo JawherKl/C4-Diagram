@@ -77,7 +77,6 @@ The process of creating C4 diagrams forces engineers to think critically about a
    - Provides detailed implementation details, such as class-level diagrams showing how objects like `Product`, `Category`, and `Price` are related.
 
 ### Importance of C4 Diagrams in Agile and DevOps Environments
-
 C4 diagrams fit well into **Agile** and **DevOps** workflows:
 - In Agile, as teams move quickly and iteratively, C4 diagrams help ensure that architectural decisions are visible and adaptable throughout the process.
 - In DevOps, C4 diagrams help bridge the gap between developers and operations by providing a clear understanding of how components and containers should be deployed, monitored, and scaled.
